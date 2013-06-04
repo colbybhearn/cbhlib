@@ -1,0 +1,10 @@
+H:\Mine\DropBox\My Dropbox\Programming\CbhLib\bin\Debug\CbhLib.dll
+H:\Mine\DropBox\My Dropbox\Programming\CbhLib\bin\Debug\CbhLib.pdb
+H:\Mine\DropBox\My Dropbox\Programming\CbhLib\obj\Debug\ResolveAssemblyReference.cache
+H:\Mine\DropBox\My Dropbox\Programming\CbhLib\obj\Debug\CbhLib.dll
+H:\Mine\DropBox\My Dropbox\Programming\CbhLib\obj\Debug\CbhLib.pdb
+C:\Users\Colby\Documents\My Dropbox\Programming\CbhLib\bin\Debug\CbhLib.dll
+C:\Users\Colby\Documents\My Dropbox\Programming\CbhLib\bin\Debug\CbhLib.pdb
+C:\Users\Colby\Documents\My Dropbox\Programming\CbhLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Colby\Documents\My Dropbox\Programming\CbhLib\obj\Debug\CbhLib.dll
+C:\Users\Colby\Documents\My Dropbox\Programming\CbhLib\obj\Debug\CbhLib.pdb
